@@ -31,6 +31,7 @@ Dashboard: Interactive Streamlit dashboard for user-friendly data exploration.
 Prerequisites
 Python 3.8+
 PostgreSQL
+Docker Desktop
 Astronomer CLI
 IMDb API access (via RapidAPI)
 
