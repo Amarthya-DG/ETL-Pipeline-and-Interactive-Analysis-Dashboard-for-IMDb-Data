@@ -16,6 +16,10 @@ License
 ## Project Overview
 The IMDb ETL Pipeline automates the data gathering and processing of IMDb movie data, transforming and storing it in PostgreSQL, with a visualization dashboard for insights and exploration.
 
+# Dashboard will look like this
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/ea5ecfd3-89cb-46ff-95f3-88f89f50d073">
+
+
 ## Features
 Automated ETL Pipeline: Daily data extraction, transformation, and loading into PostgreSQL using Astronomer.
 Data Transformation: Structured and cleaned data ready for analysis.
