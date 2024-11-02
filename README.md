@@ -38,7 +38,7 @@ IMDb API access (via RapidAPI)
 ## Step-by-Step Installation
 Clone the Repository
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://Amarthya-DG/ETL-Pipeline-and-Interactive-Analysis-Dashboard-for-IMDb-Data/edit/main/README.md
 cd your-repository-name
 
 Set Up a Virtual Environment
