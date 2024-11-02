@@ -1,0 +1,21 @@
+version: '3.7'
+services:
+  postgres:
+    image: postgres:12
+    container_name: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    volumes:
+      - ./data:/var/lib/postgresql/data
+    networks:
+      - airflow_network
+
+networks:
+  airflow_network:
+    external: false
+volumes:
+postgres:
